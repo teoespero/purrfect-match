@@ -1,0 +1,27 @@
+body {
+	padding: 70px;
+}
+
+.my-class {
+    background: #ffffff;
+}
+
+.spaces {
+	padding: 70px;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+.jumbotron {
+	color: #2c3e50;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #ffffff;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #ffffff;	
+}
